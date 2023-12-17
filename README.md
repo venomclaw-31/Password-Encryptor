@@ -46,6 +46,4 @@ This is a simple password manager that uses the `cryptography` library to encryp
 
 - [cryptography](https://cryptography.io): A library for secure communication.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
