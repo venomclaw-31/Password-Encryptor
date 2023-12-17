@@ -34,6 +34,14 @@ This is a simple password manager that uses the `cryptography` library to encryp
 
 3. Follow the prompts to view or add passwords.
 
+## Demo Image Representation
+### Inserting data -
+
+<img width="1077" alt="pass_bruv TERMINAL SS" src="https://github.com/venomclaw-31/Password-Encryptor/assets/145835498/7c286650-2ac2-4e0b-91b5-33a406084c46">
+
+### View of Encrypted Data -
+<img width="1430" alt="pass_bruv TEXT FILE SS" src="https://github.com/venomclaw-31/Password-Encryptor/assets/145835498/f46f20aa-29f6-4c93-9f37-b80c20dcee9b">
+
 ## Important Note
 
 - Make sure to remember your master password. It is crucial for decrypting passwords.
